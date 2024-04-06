@@ -1,1 +1,3 @@
 # UrbanMindscape-Bridging-Objective-and-Subjective-perception-through-Deep-Learning
+
+The UrbanMindscape project seeks to create visual representations of human perceptions and the physical characteristics of urban environments by leveraging deep learning techniques. It integrates both objective and subjective viewpoints to achieve a comprehensive understanding of urban spaces. Utilizing the MIT PlacePulse 2.0 dataset, the project assesses human perceptions of urban areas from a global perspective. Additionally, it employs semantic segmentation to identify and analyze the physical features of these spaces.
